@@ -10,7 +10,7 @@ import {
   Button,
 } from "@chakra-ui/react";
 import { useRouter } from "next/router";
-import { Particles } from "react-tsparticles";
+import { Particles } from "@tsparticles/react";
 import { loadSlim } from "tsparticles-slim";
 import particlesConfig from "../components/particlesjs-config.json";
 import { motion } from "framer-motion";
