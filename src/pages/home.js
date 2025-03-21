@@ -18,7 +18,7 @@ import {
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
 import { FaArrowAltCircleRight } from "react-icons/fa";
-import Particles from "react-particles";
+import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 import particlesConfig from "../components/particlesjs-config.json";
 

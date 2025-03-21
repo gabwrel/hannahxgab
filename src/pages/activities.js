@@ -17,7 +17,7 @@ import {
 } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/router";
-import Particles from "react-particles";
+import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 import particlesConfig from "../components/particlesjs-config.json";
 import { FaArrowAltCircleLeft } from "react-icons/fa";
