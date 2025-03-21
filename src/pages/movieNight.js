@@ -65,7 +65,7 @@ const cardVariants = {
   },
 };
 
-function movieNight() {
+function MovieNight() {
   const router = useRouter();
 
   const particlesInit = useCallback(async (engine) => {
@@ -155,4 +155,4 @@ function movieNight() {
   );
 }
 
-export default movieNight;
+export default MovieNight;

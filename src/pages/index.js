@@ -82,7 +82,7 @@ export default function HomePage() {
         <ModalOverlay />
         <ModalContent bg="#f1bcd4">
           <ModalHeader textAlign="center" color="whiteAlpha.900">
-            Where's our favorite place to eat?
+            Where&apos;s our favorite place to eat?
           </ModalHeader>
           <ModalBody>
             <Input

@@ -51,7 +51,7 @@ const cardVariants = {
   },
 };
 
-function gameNight() {
+function GameNight() {
   const router = useRouter();
   return (
     <Box minH="100vh" p={8} bg="#f1bcd4">
@@ -106,4 +106,4 @@ function gameNight() {
   );
 }
 
-export default gameNight;
+export default GameNight;
